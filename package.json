@@ -1,0 +1,23 @@
+{
+  "name": "tmdb-proxy",
+  "version": "1.0.0",
+  "description": "TMDB API proxy for LevinStreaming - allows access to TMDB from regions where it's blocked",
+  "main": "api/[...path].js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "tmdb",
+    "proxy",
+    "api",
+    "vercel",
+    "serverless"
+  ],
+  "author": "LevinStreaming",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
+
