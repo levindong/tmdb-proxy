@@ -90,7 +90,7 @@ Instead of hardcoding the API key, you can use Vercel environment variables:
 3. Update `api/[...path].js`:
 
 ```javascript
-const TMDB_API_KEY = process.env.TMDB_API_KEY || '554926324bc948b82ef676d5e81362ce';
+const TMDB_API_KEY = process.env.TMDB_API_KEY || '554926324bc948b82ef676d5e81362';
 ```
 
 ---
@@ -191,11 +191,6 @@ Vercel Free Tier includes:
 - ✅ Global CDN
 - ✅ Zero configuration
 
-**Estimated usage for LevinStreaming:**
-- ~100-500 users: **FREE**
-- ~1000-5000 users: **$20/month** (Pro tier)
-- ~10,000+ users: Consider caching or Pro+ tier
-
 ---
 
 ## 📈 **Monitoring**
@@ -286,7 +281,7 @@ Issues? Questions?
 
 ---
 
-**Built with ❤️ for LevinStreaming**
+**Built with ❤️ **
 
 🎬 **Enjoy unlimited TMDB access!** 🚀
 
