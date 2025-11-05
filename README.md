@@ -2,7 +2,7 @@
 
 **Vercel serverless proxy for TMDB API access from China** 🇨🇳 → 🌍
 
-This proxy allows LevinStreaming app to access TMDB API from regions where it's blocked or restricted.
+This proxy allows ANYAPP to access TMDB API from regions where it's blocked or restricted.
 
 ---
 
